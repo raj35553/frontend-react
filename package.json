@@ -1,0 +1,39 @@
+{
+  "name": "frontend-react",
+  "version": "1.0.0",
+  "description": "Web application - React | Parcel",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit2991/frontend-react.git"
+  },
+  "keywords": [
+    "React",
+    "ReactDOM",
+    "JS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Mohit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit2991/frontend-react/issues"
+  },
+  "homepage": "https://github.com/mohit2991/frontend-react#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.3.1",
+    "stringify": "^5.2.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
